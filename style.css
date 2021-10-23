@@ -1,0 +1,27 @@
+*body {
+  padding:0;
+  margin:0;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: brown;
+  height: 100vh;
+  width: 100%;
+}
+
+.timer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-weight: bold;
+  font-size: 5em;
+  width: 20%;
+  height: 15%;
+  background-color: green;
+  border-radius: 15px;
+}
+
